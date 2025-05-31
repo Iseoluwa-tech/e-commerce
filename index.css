@@ -63,7 +63,7 @@ nav a {
 
 nav li :hover {
     background-color: #444;
-    transition: ease-in-out 2s;
+    transition: ease-in-out 0.5s;
     border-radius: 40px;
     border-radius: 50px; /* Rounded corners */
     padding: 12px; /* Smoothly transition padding */
